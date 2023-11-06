@@ -6,6 +6,6 @@ All equation references in the commentation refer to the numbering in the articl
 
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 
-Mathematica file: Version 1, 27.10.2023
+Mathematica file: Version 1, 27.10.2023 (Mathematica 13.1, AceGen 8.002)
 
 Libraries needed for analysis (not for Voronoi meshing): AceGen/AceFEM
